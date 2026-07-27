@@ -15,26 +15,29 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Information Technology
-- 💻 Interested in Python and Full-Stack Development
-- 🌱 Currently improving my skills in Spring Boot and React
-- 🧠 Practicing Data Structures and Algorithms
-- 🗄️ Interested in SQL and Database Management Systems
-- 💻 Learning Operating Systems and Computer Science fundamentals
-- 📫 Open to internships and opportunities
+* 🎓 B.Tech in Information Technology
+* 💻 Interested in Python and Full-Stack Development
+* 🌱 Currently improving my skills in Spring Boot and React
+* 🧠 Practicing Data Structures and Algorithms
+* 🗄️ Interested in SQL and Database Management Systems
+* 💻 Learning Operating Systems and Computer Science fundamentals
+* 📫 Open to internships and opportunities
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🐍 Programming Language
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="110" height="110"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" width="440"/>
 </p>
 
 <p align="center">
-  <b>Python</b>
+  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>C</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>C++</b>
 </p>
 
 ---
@@ -42,19 +45,21 @@
 ## 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="110" height="110"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react" width="330"/>
 </p>
 
 <p align="center">
+  <b>HTML</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CSS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>React</b>
 </p>
 
 ---
 
-## ☕ Backend Development
+## ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring" width="110" height="110"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="110"/>
 </p>
 
 <p align="center">
@@ -66,11 +71,26 @@
 ## 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" width="110" height="110"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="110"/>
 </p>
 
 <p align="center">
-  <b>SQL / MySQL</b>
+  <b>MySQL</b>
+</p>
+
+---
+
+## 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" width="440"/>
+</p>
+
+<p align="center">
+  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>VS Code</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Postman</b>
 </p>
 
 ---
@@ -84,11 +104,19 @@
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/OS-Operating%20Systems-0078D4?style=for-the-badge&logo=linux&logoColor=white" width="280" height="70"/>
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-FF6F00?style=for-the-badge&logo=java&logoColor=white" width="280" height="70"/>
 </a>
 
 <a href="#">
   <img src="https://img.shields.io/badge/DBMS-Database%20Management%20Systems-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="280" height="70"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/OS-Operating%20Systems-0078D4?style=for-the-badge&logo=linux&logoColor=white" width="280" height="70"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/CN-Computer%20Networks-1572B6?style=for-the-badge&logo=cisco&logoColor=white" width="280" height="70"/>
 </a>
 
 </p>
@@ -124,28 +152,28 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jyoti-chavan-153884292/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="110" height="110"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="110"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          
 
 <a href="https://github.com/chavanjyoti_2604" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="110" height="110"/>
+  <img src="https://skillicons.dev/icons?i=github" width="110"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          
 
 <a href="mailto:chavanjyoti3153@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="110" height="110"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="110"/>
 </a>
 
 </p>
 
 <p align="center">
   <b>LinkedIn</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>GitHub</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Email</b>
 </p>
 
