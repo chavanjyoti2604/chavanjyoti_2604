@@ -30,12 +30,11 @@
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java" width="440"/>
+  <img src="https://skillicons.dev/icons?i=python" width="440"/>
 </p>
 
 <p align="center">
   <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -121,14 +120,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chavanjyoti_2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="500"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -137,13 +128,6 @@
 
 ---
 
-# 📈 Most Used Languages
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanjyoti_2604&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="400"/>
-</p>
----
 
 # 🤝 Connect With Me
 
