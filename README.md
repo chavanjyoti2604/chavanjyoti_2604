@@ -139,10 +139,10 @@
 
 # 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanjyoti_2604&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="400"/>
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanjyoti_2604&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="400"/>
+</p>
 ---
 
 # 🤝 Connect With Me
