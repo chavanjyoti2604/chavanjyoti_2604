@@ -152,19 +152,15 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jyoti-chavan-153884292/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="110"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="100" height="100"/>
 </a>
-
-          
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/chavanjyoti_2604" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="110"/>
+  <img src="https://skillicons.dev/icons?i=github" width="100" height="100"/>
 </a>
-
-          
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:chavanjyoti3153@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="110"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="100" height="100"/>
 </a>
 
 </p>
@@ -177,7 +173,6 @@
   <b>Email</b>
 </p>
 
----
 
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
