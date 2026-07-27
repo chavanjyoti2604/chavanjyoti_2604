@@ -30,14 +30,12 @@
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" width="440"/>
+  <img src="https://skillicons.dev/icons?i=python,java" width="440"/>
 </p>
 
 <p align="center">
   <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>C</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>C++</b>
 </p>
 
 ---
