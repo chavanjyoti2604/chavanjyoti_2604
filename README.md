@@ -1,12 +1,15 @@
 # Hi 👋, I'm Jyoti Chavan
 
-### 💻 Information Technology Student | Python Developer | Full-Stack Developer 
+<h3 align="center">
+💻 Information Technology Student | Python Developer | Full-Stack Developer
+</h3>
 
-I'm a B.Tech Information Technology student passionate about
-Software Development, AI/ML, Data Structures and Algorithms.
-
-I enjoy solving real-world problems, developing practical projects,
-and continuously improving my technical skills.
+<p align="center">
+  Passionate about Software Development, AI/ML, Data Structures and Algorithms.
+  <br>
+  I enjoy solving real-world problems, developing practical projects,
+  and continuously improving my technical skills.
+</p>
 
 ---
 
@@ -22,80 +25,87 @@ and continuously improving my technical skills.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🐍 Programming Language
+## 🐍 Programming Language
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" width="90" height="90"/>
 </p>
 
-### 🌐 Web Development
+## 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react" width="90" height="90"/>
 </p>
 
-### ☕ Backend Development
+## ☕ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=spring" width="90" height="90"/>
 </p>
 
-### 🗄️ Database
+## 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="90" height="90"/>
 </p>
 
-### 🧠 Core Computer Science
+## 🧠 Core Computer Science
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-OS-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Management%20Systems-DBMS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/OS-Operating%20Systems-0078D4?style=for-the-badge&logo=linux&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/DBMS-Database%20Management%20Systems-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chavanjyoti_2604&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chavanjyoti_2604&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=chavanjyoti_2604&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chavanjyoti_2604&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanjyoti_2604&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanjyoti_2604&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jyoti-chavan-153884292/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/jyoti-chavan-153884292/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="100" height="100"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://https://github.com/chavanjyoti2604/">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/chavanjyoti_2604" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="100" height="100"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:chavanjyoti3153@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="100" height="100"/>
 </a>
 
+</p>
+
+<p align="center">
+  💼 LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🐙 GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📧 Email
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
