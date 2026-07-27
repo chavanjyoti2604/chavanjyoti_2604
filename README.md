@@ -29,43 +29,84 @@
 
 ## 🐍 Programming Language
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="90" height="90"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="110" height="110"/>
 </p>
 
-## 🌐 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" width="90" height="90"/>
-</p>
-
-## ☕ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" width="90" height="90"/>
-</p>
-
-## 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="90" height="90"/>
-</p>
-
-## 🧠 Core Computer Science
-
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/OS-Operating%20Systems-0078D4?style=for-the-badge&logo=linux&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/DBMS-Database%20Management%20Systems-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"/>
+<p align="center">
+  <b>Python</b>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chavanjyoti_2604&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=chavanjyoti_2604&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=react" width="110" height="110"/>
+</p>
+
+<p align="center">
+  <b>React</b>
+</p>
+
+---
+
+## ☕ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" width="110" height="110"/>
+</p>
+
+<p align="center">
+  <b>Spring Boot</b>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="110" height="110"/>
+</p>
+
+<p align="center">
+  <b>SQL / MySQL</b>
+</p>
+
+---
+
+# 🧠 Core Computer Science Concepts
+
+<p align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" width="280" height="70"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/OS-Operating%20Systems-0078D4?style=for-the-badge&logo=linux&logoColor=white" width="280" height="70"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/DBMS-Database%20Management%20Systems-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="280" height="70"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chavanjyoti_2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="500"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chavanjyoti_2604&theme=tokyonight&hide_border=true" width="500"/>
 </p>
 
 ---
@@ -73,7 +114,7 @@
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanjyoti_2604&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavanjyoti_2604&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="400"/>
 </p>
 
 ---
@@ -83,25 +124,29 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jyoti-chavan-153884292/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="100" height="100"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="110" height="110"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/chavanjyoti_2604" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="100" height="100"/>
+  <img src="https://skillicons.dev/icons?i=github" width="110" height="110"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:chavanjyoti3153@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="100" height="100"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="110" height="110"/>
 </a>
 
 </p>
 
 <p align="center">
-  💼 LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🐙 GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  📧 Email
+  <b>LinkedIn</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Email</b>
 </p>
 
 ---
